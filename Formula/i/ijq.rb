@@ -2,7 +2,7 @@ class Ijq < Formula
   desc "Interactive jq"
   homepage "https://codeberg.org/gpanders/ijq"
   url "https://codeberg.org/gpanders/ijq/archive/v1.3.0.tar.gz"
-  sha256 "b65cf7f5285affe3ab9a1887d12e6c313f437b18a5cf2b52add6cfd7e76dd2c7"
+  sha256 "63c961194aaab935faf325cd4bf3d25638f87ede1f2498367b5cd92ebe42e0ec"
   license "GPL-3.0-or-later"
   head "https://codeberg.org/gpanders/ijq.git", branch: "master"
 
